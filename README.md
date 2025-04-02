@@ -13,4 +13,4 @@ I am Swatisnigdha Panigrahi, currently pursuing MCA at Trident Academy of Creati
 - ⚡ Fun fact: I always think about food.
 
 ## Connect with me:
-LinkedIn - https://www.linkedin.com/in/swatisnigdhapanigrahi
+![LinkedIn-Emblema](https://github.com/user-attachments/assets/73fd9886-4916-4fed-a407-f0cd7c75890b) - https://www.linkedin.com/in/swatisnigdhapanigrahi
