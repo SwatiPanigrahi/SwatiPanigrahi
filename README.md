@@ -2,7 +2,7 @@
 ![206916906-9bfb66d9-c419-44c2-908a-4885e610425f](https://github.com/user-attachments/assets/fbdad649-5009-4374-affe-609801f39302)
 
 ## Hi, I'm Swatisnigdha Panigrahi👋
-         <h1>An Aspiring Cloud Engineer</h1>
+         <h1><b>An Aspiring Cloud Engineer<b></h1>
   
 ## About Me
 I am Swatisnigdha Panigrahi, currently pursuing MCA at Trident Academy of Creative Technology. I am very enthusiastic to explore new tools and technologies.
