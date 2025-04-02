@@ -5,6 +5,8 @@ I am Swatisnigdha Panigrahi, currently pursuing MCA at Trident Academy of Creati
 
 - 🌱 I’m currently learning Cloud AWS Services.
 - 💬 Ask me about Java, SQL, Frontend Technologies
-- 📫 How to reach me: panigarhiswatisnigdha@gmail.com 
-- ⚡ Fun fact: I'm always in love with myself.
+- 📫 How to reach me: panigrahiswatisnigdha@gmail.com 
+- ⚡ Fun fact: I always think about food.
 
+## Connect with me:
+LinkedIn - https://www.linkedin.com/in/swatisnigdhapanigrahi
