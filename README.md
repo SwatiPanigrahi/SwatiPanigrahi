@@ -7,8 +7,8 @@
 ## About Me
 I am Swatisnigdha Panigrahi, a MCA Graduate from Trident Academy of Creative Technology, Bhubaneswar. I am very enthusiastic to explore new tools and technologies.
 
-- 🌱 I’m currently learning Numpy and Pandas.
+- 🌱 I’m currently learning Numpy, Pandas and Power BI.
 - 💬 Ask me about Python, SQL, Frontend Technologies.
-- 📫 How to reach me: panigrahiswatisnigdha@gmail.com 
+- 📫 How to reach me: snigdhaswatipanigrahi@gmail.com 
 - ⚡ Fun fact: I always think about food.
 
