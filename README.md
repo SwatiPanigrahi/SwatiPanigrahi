@@ -7,7 +7,7 @@
 ## About Me
 I am Swatisnigdha Panigrahi, a Management Trainee - US Recruiter at Lancesoft India Private Limited, Bhubaneswar. Enthusiastic to explore the field of data analysis.
 
-- 🌱 I’m currently focusing on Advanced Excel and Power BI. 
+- 🌱 I’m currently focusing on taffing and recruitment services. 
 - 📫 How to reach me: snigdhaswatipanigrahi@gmail.com 
 - ⚡ Fun fact: I always think about food.
 
